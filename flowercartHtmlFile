@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Florist Cart</title>
+        <link rel="icon" href="flower-icon.png">
+        <link rel="stylesheet" href="flower-cart.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     
+  </head>
+    </head>
+    <body>
+        <main class="main-content">
+            <marquee id="offer"><span style="margin-right: 80px;">First Order? Get 15% Off </span>|
+                <span style="margin-right: 80px;"> Weekend Blossom Deals Inside</span>| 
+                 <span style="margin-right: 80px;">Best-Selling Bouquets on Sale</span>
+            </marquee>
+
+             <!-- navigation bar-->
+             <nav class="nav" nav-fixed>
+                <div class="logo">
+                    <img src="flower-icon.png" alt=" logo">
+                </div>
+                <div class="name">Florist Cart</div>
+                <ul class="menu">
+                    <li> <a href="#home"><i class="fa fa-home"></i> Home</a></li>
+                    <li> <a href="#item">Product</a></li>
+                    <li> <a href="">Contact</a></li>
+                    <li> <img src="search.png" alt="search"></li>
+                    <li> <img src="cart.png" alt="cart"></li>
+                    <li> <img src="wishlist.png" alt="wishlist"></li>
+                </ul>  
+              </nav>
+              
+              <section class="contain">
+                <div class="home">
+                    <div class="main">
+                       
+                        <h1>Nature’s art, handpicked fresh <div class="roller">
+                          <span id="rolltext">Florist Cart<br/>
+                          <span id="spare-time">Explore More</span><br/>
+                          </div>
+                          <div class="Explore"> <button  id="explore"> explore </button></div>
+                         
+                          </h1>
+                         
+                        </div>           
+                </div>
+              </div> 
+              </section>
+              <!--  item display page-->
+           
+                <h2 class="item-title"> Curated Collections</h2>
+                <p class="item-content">
+                    No matter the occasion, express your love with fresh blooms</p>
+              <!-- <section class="item" id="item"> -->
+                <div class="item-cards">
+                    <div class="card">
+                        <img src="fl1.webp" alt="Album 1">
+                        <h2><B>Valentine’s Day</B></h2>
+                        <a href="son1.html"></a>
+                        <button class="btn-detail">MORE Details</button>
+                    </a>
+                    </div>
+                    <!-- card 2-->
+                    <div class="card">
+                        <img src="fl2.webp" alt="Album 1">
+                        <h2><B>  Anniversaries  </B></h2>
+                        <a href="son1.html"></a>
+                        <button class="btn-detail">MORE Details</button>
+                    </a>
+                    </div>
+
+                     <!-- card 3-->
+                     <div class="card">
+                        <img src="fl3.jpg" alt="Album 1">
+                        <h2><B> Corporate Events   </B></h2>
+                        <a href="son1.html"></a>
+                        <button class="btn-detail">MORE Details</button>
+                    </a>
+                    </div>
+
+                      <!--card 4-->
+                      <div class="card">
+                        <img src="fl5.webp" alt="Album 1">
+                        <h2><B> Birthdays </B></h2>
+                        <a href="son1.html"></a>
+                        <button class="btn-detail">MORE Details</button>
+                    </a>
+                    </div>
+                      
+
+                      <!--card 5-->
+                      <div class="card">
+                        <img src="fl6.jpg" alt="Album 1">
+                        <h2><B> Special Occasion </B></h2>
+                        <a href="son1.html"></a>
+                        <button class="btn-detail">MORE Details</button>
+                    </a>
+                    </div>
+                      
+                </div>
+                
+                <div class="location">
+                    <div class="location-title"> Store Locations</div>
+                    <div class="item-cards">
+                        <div class="card"> <img src="chennai.png"></div>
+                        <div class="card"> <img src="kolkata.png"></div>        
+                        <div class="card"> <img src="hyderabad.png"></div>
+                        <div class="card"> <img src="ahmedabad.png"></div>
+                        
+                    </div>
+                    
+                </div>
+                <!-- best sellers-->
+                 <div class="bestseller-container">
+                    <div class="bestseller-maincontent">
+                       <div class="bestseller-title"> Our Best Sellers</div>
+                       <p class="item-content">Florist’s Top Picks and Most Loved Blooms                       </p>
+                        <div class=" bestseller">
+                            <!--bestseller1-->
+                            <div class=" bestseller-list">
+                                <img src="best1.webp" alt="product image">
+                                <div class="best-price">₹999</div>
+                                <div class="shop-now"> Shop Now</div>
+                            </div>
+                            <!--bestseller2-->
+                            <div class=" bestseller-list">
+                                <img src="best2.jpg" alt="product image">
+                                <div class="best-price">₹899</div>
+                                <div class="shop-now"> Shop Now</div>
+                            </div>
+                            <!--bestseller3-->
+                            <div class=" bestseller-list">
+                                <img src="best3.webp" alt="product image">
+                                <div class="best-price">₹799</div>
+                                <div class="shop-now"> Shop Now</div>
+        
+                            </div>
+                            <!--bestseller4-->
+                            <div class=" bestseller-list">
+                                <img src="best4.webp" alt="product image">
+                                <div class="best-price">₹1299</div>
+                                <div class="shop-now"> Shop Now</div>
+        
+                            </div>
+                         </div>
+                    </div>
+
+                 </div>
+                
+
+                 <!-- end of best sellers-->
+                <!-- contact-->
+                <div class="contact-main">
+                
+                    <div class="contact-icon">
+                        <h3> follow us on</h3>
+                    <div class="icons">
+                        <ul class="icon-list">
+                            <li><a href=""><img src="instagram.png" class="icon"></a></li>
+                            <li><a href=""><img src="twitter (1).png" class="icon"></a></li>
+                            <li><a href=""><img src="twitter.png" class="icon"></a></li>
+                            <li><a href=""><img src="youtube.png" class="icon"></a></li>
+                        </ul>
+                        <hr>
+                     <table  id="contact-details">
+                        <h3 style="text-align:center;">Head Office Address</h3>
+                        <td>
+                            2nd Thomas street ,Coral Commercial Bulding, 3rd Floor, HSR Layout , Bangalore-641105
+                        </td>
+                    
+                       
+                     </table>
+                    </div>
+                    </div>
+                </div>
+               
+
+
+        </main>
+        <!-- footer-->
+        <footer id="footer">
+            <div class="foot"> All Copy Rights 2025 @ florist cart</div>
+        </footer>
+    </body>
+</html>
