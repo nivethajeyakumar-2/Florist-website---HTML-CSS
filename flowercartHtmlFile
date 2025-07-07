@@ -2,7 +2,7 @@
 <html>
     <head>
         <title> Florist Cart</title>
-        <link rel="icon" href="flower-icon.png">
+        <link rel="icon" href=" Images/flower-icon.png">
         <link rel="stylesheet" href="flower-cart.css">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
      
@@ -18,7 +18,7 @@
              <!-- navigation bar-->
              <nav class="nav" nav-fixed>
                 <div class="logo">
-                    <img src="flower-icon.png" alt=" logo">
+                    <img src="Images/flower-icon.png" alt=" logo">
                 </div>
                 <div class="name">Florist Cart</div>
                 <ul class="menu">
@@ -55,7 +55,7 @@
               <!-- <section class="item" id="item"> -->
                 <div class="item-cards">
                     <div class="card">
-                        <img src="fl1.webp" alt="Album 1">
+                        <img src="Images/fl1.webp" alt="Album 1">
                         <h2><B>Valentine’s Day</B></h2>
                         <a href="son1.html"></a>
                         <button class="btn-detail">MORE Details</button>
@@ -63,7 +63,7 @@
                     </div>
                     <!-- card 2-->
                     <div class="card">
-                        <img src="fl2.webp" alt="Album 1">
+                        <img src="Images/fl2.webp" alt="Album 1">
                         <h2><B>  Anniversaries  </B></h2>
                         <a href="son1.html"></a>
                         <button class="btn-detail">MORE Details</button>
@@ -72,7 +72,7 @@
 
                      <!-- card 3-->
                      <div class="card">
-                        <img src="fl3.jpg" alt="Album 1">
+                        <img src="Images/fl3.jpg" alt="Album 1">
                         <h2><B> Corporate Events   </B></h2>
                         <a href="son1.html"></a>
                         <button class="btn-detail">MORE Details</button>
@@ -81,7 +81,7 @@
 
                       <!--card 4-->
                       <div class="card">
-                        <img src="fl5.webp" alt="Album 1">
+                        <img src="Images/fl5.webp" alt="Album 1">
                         <h2><B> Birthdays </B></h2>
                         <a href="son1.html"></a>
                         <button class="btn-detail">MORE Details</button>
@@ -91,7 +91,7 @@
 
                       <!--card 5-->
                       <div class="card">
-                        <img src="fl6.jpg" alt="Album 1">
+                        <img src="Images/fl6.jpg" alt="Album 1">
                         <h2><B> Special Occasion </B></h2>
                         <a href="son1.html"></a>
                         <button class="btn-detail">MORE Details</button>
@@ -103,10 +103,10 @@
                 <div class="location">
                     <div class="location-title"> Store Locations</div>
                     <div class="item-cards">
-                        <div class="card"> <img src="chennai.png"></div>
-                        <div class="card"> <img src="kolkata.png"></div>        
-                        <div class="card"> <img src="hyderabad.png"></div>
-                        <div class="card"> <img src="ahmedabad.png"></div>
+                        <div class="card"> <img src="Images/chennai.png"></div>
+                        <div class="card"> <img src="Images/kolkata.png"></div>        
+                        <div class="card"> <img src="Images/hyderabad.png"></div>
+                        <div class="card"> <img src="Images/ahmedabad.png"></div>
                         
                     </div>
                     
@@ -119,26 +119,26 @@
                         <div class=" bestseller">
                             <!--bestseller1-->
                             <div class=" bestseller-list">
-                                <img src="best1.webp" alt="product image">
+                                <img src="Images/best1.webp" alt="product image">
                                 <div class="best-price">₹999</div>
                                 <div class="shop-now"> Shop Now</div>
                             </div>
                             <!--bestseller2-->
                             <div class=" bestseller-list">
-                                <img src="best2.jpg" alt="product image">
+                                <img src="Images/best2.jpg" alt="product image">
                                 <div class="best-price">₹899</div>
                                 <div class="shop-now"> Shop Now</div>
                             </div>
                             <!--bestseller3-->
                             <div class=" bestseller-list">
-                                <img src="best3.webp" alt="product image">
+                                <img src="Images/best3.webp" alt="product image">
                                 <div class="best-price">₹799</div>
                                 <div class="shop-now"> Shop Now</div>
         
                             </div>
                             <!--bestseller4-->
                             <div class=" bestseller-list">
-                                <img src="best4.webp" alt="product image">
+                                <img src="Images/best4.webp" alt="product image">
                                 <div class="best-price">₹1299</div>
                                 <div class="shop-now"> Shop Now</div>
         
@@ -157,10 +157,10 @@
                         <h3> follow us on</h3>
                     <div class="icons">
                         <ul class="icon-list">
-                            <li><a href=""><img src="instagram.png" class="icon"></a></li>
-                            <li><a href=""><img src="twitter (1).png" class="icon"></a></li>
-                            <li><a href=""><img src="twitter.png" class="icon"></a></li>
-                            <li><a href=""><img src="youtube.png" class="icon"></a></li>
+                            <li><a href=""><img src="Images/instagram.png" class="icon"></a></li>
+                            <li><a href=""><img src="Images/twitter (1).png" class="icon"></a></li>
+                            <li><a href=""><img src="Images/twitter.png" class="icon"></a></li>
+                            <li><a href=""><img src="Images/youtube.png" class="icon"></a></li>
                         </ul>
                         <hr>
                      <table  id="contact-details">
